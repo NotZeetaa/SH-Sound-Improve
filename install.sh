@@ -122,10 +122,11 @@ REPLACE="
 # Set what you want to display when installing your module
 
 print_modname() {
-  ui_print "*********************************************************"
-  ui_print "    Fix Audio Low On DerpFest & Other roms   "
-  ui_print "*********************************************************"
+  ui_print "**********************************************"
+  ui_print "    Speaker & Headset Audio Improve   "
+  ui_print "**********************************************"
 }
+sleep 2.5
 
 # Copy/extract your module files into $MODPATH in on_install.
 
