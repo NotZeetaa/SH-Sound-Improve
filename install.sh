@@ -122,9 +122,9 @@ REPLACE="
 # Set what you want to display when installing your module
 
 print_modname() {
-  ui_print "**********************************************"
-  ui_print "    Speaker & Headset Audio Improve   "
-  ui_print "**********************************************"
+  ui_print "********************************"
+  ui_print "    Audio Policy Module   "
+  ui_print "********************************"
 }
 sleep 2.5
 

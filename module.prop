@@ -1,6 +1,6 @@
-id=SH-Sound-Improve
-name=SH-Sound-Improve
+id=AudioPolicyModule
+name=AudioPolicyModule
 version=v1
 versionCode=1
 author=NotZeetaa
-description=Speaker & Headset Sound Improve. Check my Repo for more info
+description=Audio Policy Magisk Module, this includes audio policy files to update and fix some audio problems such as Bluetooth Audio and Sound Crackling. Check my Repo for more info
